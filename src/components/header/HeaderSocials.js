@@ -13,10 +13,10 @@ const HeaderSocials = () => {
       <a href="https://linkedin.com/in/maneesh-koranga-176653113" target="-blank">
         <BsLinkedin />
       </a>
-      <a href="https://facebook.com" target="-blank">
+      <a href="https://facebook.com/manish.koranga.75" target="-blank">
         <FaFacebookSquare />
       </a>
-      <a href="https://instagram.com" target="-blank">
+      <a href="https://instagram.com/mkjudoka" target="-blank">
         <BsInstagram />
       </a>
     </div>
